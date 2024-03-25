@@ -1,3 +1,4 @@
+print("################## Section 1 ########################")
 animals = ["Dogs", "Cats", "Sheep", "Goats"]
 
 animal_index = 0
@@ -8,7 +9,7 @@ print(f"Animal number {animal_index +1 } is: {animals[animal_index]}")
 
 print(f"Length of animals list is {len(animals)}")
 
-print("###################################################")
+print("################## Section 2 ########################")
 
 print("\nList before removing animal")
 print(f"Animal list {animals}")
